@@ -1,0 +1,26 @@
+{
+  "name": "simple-html-project-generator",
+  "version": "0.0.1",
+  "description": "A simple project generator for html projects",
+  "main": "index.js",
+  "bin": {
+    "simplegen-html": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "project",
+    "generator"
+  ],
+  "author": "Sadi Mahmud",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.12.1",
+    "fs-extra": "^4.0.2"
+  }
+}
