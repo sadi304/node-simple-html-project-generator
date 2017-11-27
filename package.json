@@ -1,6 +1,6 @@
 {
   "name": "simple-html-project-generator",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A simple project generator for html projects",
   "main": "index.js",
   "bin": {
