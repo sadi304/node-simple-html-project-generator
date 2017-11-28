@@ -1,11 +1,11 @@
 {
   "name": "simple-html-project-generator",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A simple project generator for html projects",
   "main": "index.js",
-  "repository" :  { 
-    "type" : "git",
-    "url" : "https://github.com/sadi304/node-simple-html-project-generator"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sadi304/node-simple-html-project-generator"
   },
   "bin": {
     "simplegen-html": "./index.js"
